@@ -23,3 +23,5 @@ You can queue up doujinshin's to download, you can view the queue in the extensi
 the button also displays how many doujinshin's are currently internally stored, and by clicking the button you can download an "index.json" file that contains all the information about the downloaded doujinshin's.
 - Clear Storage: will clear the internal storage.
 - Download Queue: shows the queue, it will only download 1 doujinshin at a time (the top one), and 1 page at a time, you can see the current progress in the progressbar.
+
+I can't put the extension on the store because of the nature of the extension.
