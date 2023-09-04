@@ -1,5 +1,12 @@
 # Firefox Extension to Download Doujinshin's
 Downloads Doujinshin's from "https://nhentai.net/g/*"
+#
+Installation:
+- get the extension (.xpi file) from [release page](https://github.com/weebo3/nHentai_Downloader/releases)
+- write `about:addons` in the url bar
+- click on the gear at the top right
+- choose `Install Add-on From File...`
+- select the .xpi file
 
 #
 The extension will add a button to download the doujinshin, when you visit any page at (https://nhentai.net/g/*)
